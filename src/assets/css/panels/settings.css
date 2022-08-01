@@ -9,7 +9,9 @@
     display: flex;
     justify-content: center;
 }
-
+.java-settings {
+    color:white
+}
 .tab-btn-css {
     border-radius: 23px;
     width: 160px;
